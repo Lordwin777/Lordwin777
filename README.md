@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 📫 How to reach me **lordwinjoseph40@gmail.com**
+- 📫 How to reach me **lordwinjoseph777@gmail.com**
 
 - ⚡ Fun fact **Coding can “power up” your brain**
 
