@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lordwin777" alt="lordwin777" /></a> </p>
 
-- 🔭 I’m currently working on [Simple Java Projects or Programs](https://github.com/Lordwin777/Lordwin_Java)
+- 🔭 I’m currently working on [Cyber Security Training (JPT)](https://github.com/Lordwin777/Lordwin_Java)
 
 - 🌱 I’m currently learning **Cyber Security**
 
